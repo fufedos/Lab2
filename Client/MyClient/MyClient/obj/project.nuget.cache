@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NBPVNuxqTgftZE6FpGH16miWlYGVfyvZ0imXhQZ6Pi2qZoR1LvWBiSB4+uUUC49zBshD92OD99greTk7I4rHyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artur\\OneDrive\\Документы\\3 курс\\КыСКыС\\Lab2\\Lab2\\Client\\MyClient\\MyClient\\MyClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artur\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\artur\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
